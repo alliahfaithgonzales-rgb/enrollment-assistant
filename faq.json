@@ -1,0 +1,27 @@
+{
+  "enrollment_requirements": {
+    "question": "What are the enrollment requirements?",
+    "answer": "For freshmen: Report Card (Form 138), Certificate of Good Moral Character, PSA Birth Certificate, 2x2 ID photos (4 copies), and Medical Certificate. For transferees: Honorable Dismissal, Transcript of Records, and the same documents above.",
+    "keywords": ["enrollment", "requirements", "freshmen", "transferee", "documents"]
+  },
+  "enrollment_deadline": {
+    "question": "When is the deadline for enrollment?",
+    "answer": "Regular enrollment ends on August 15. Late enrollment is accepted until August 20 with a penalty fee of ₱500. Classes start on August 22.",
+    "keywords": ["deadline", "enroll", "when", "last day", "late"]
+  },
+  "tuition_payment": {
+    "question": "How can I pay my tuition fees?",
+    "answer": "You may pay via: 1) Online bank transfer (BDO/BPI), 2) Over-the-counter at the Cashier's Office, 3) GCash or Maya. Full payment gets 2% discount. Installment plans available: 3-payment scheme (40%-30%-30%).",
+    "keywords": ["tuition", "payment", "pay", "fees", "installment", "gcash", "bank"]
+  },
+  "class_schedule": {
+    "question": "Where can I see my class schedule?",
+    "answer": "Class schedules are released 3 days before classes start. Log in to the Student Portal using your student ID and password. If unavailable, visit your department office.",
+    "keywords": ["schedule", "classes", "time", "portal"]
+  },
+  "contact_info": {
+    "question": "How do I contact the Registrar's Office?",
+    "answer": "Email: registrar@school.edu.ph | Phone: (02) 1234-5678 | Office Hours: Monday–Friday, 8:00 AM – 5:00 PM. Located at the Main Building, Ground Floor.",
+    "keywords": ["contact", "registrar", "email", "phone", "where"]
+  }
+}
